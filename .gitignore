@@ -1,2 +1,2 @@
-# Exclude dot files
-!.*
+# Exclude dot files (i don't think this worked but anyways)
+# !.*
